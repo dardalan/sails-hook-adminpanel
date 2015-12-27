@@ -1,5 +1,13 @@
-sails-hook-adminpanel
+sails-hook-adminpanel-flexible
 =====================
+
+This is an extension of original repository.
+
+What were added?
+
+- ability edit array and json format
+
+- use type string for these types
 
 Admin panel generator fro Sails.js applications v0.11+
 
@@ -9,7 +17,7 @@ Admin panel generator fro Sails.js applications v0.11+
 
 To install this hook you will need to run:
 
-    npm install --save sails-hook-adminpanel
+    npm install --save sails-hook-adminpanel-flexible
 
 Then you will need to create a config file for admin panel generator into `config/adminpanel.js`
 
@@ -79,3 +87,6 @@ Yes, see the [v0.11 migration guide](http://sailsjs.org/#/documentation/concepts
 ## License
 
 MIT
+
+#Contributors
+Svyatoslav Dardalan
