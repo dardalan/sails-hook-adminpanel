@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-adminpanel-flexible",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "Implements the basic admin panel for Sails",
   "keywords": [
     "sails-hook",
@@ -34,9 +34,6 @@
   "sails": {
     "isHook": true
   },
-  "author": {
-    "name": "Dardalan Svyatoalav",
-    "email": "svyat.9191@gmail.com"
-    },
+  "author": "Konstantin Zolotarev",
   "license": "MIT"
 }
